@@ -1,0 +1,65 @@
+#Create a while loop that will print:
+#     1. from -384 to 136 by 13.
+#     2. from -98 to 510 by 19.
+#     3. from 293 to 329 by 2.
+#     4. from -413 to -243 by 5.
+#     5. from -163 to 17 by 15.
+#     6. from 228 to 250 by 1.
+#     7. from 22 to 330 by 11.
+#     8. from 130 to 290 by 5.
+#     9. from -43 to 167 by 7.
+#     10. from -153 to 374 by 17.
+
+
+
+i = -384
+while i <= 136:
+ print(i)
+ i += 13
+
+i = -98
+while i <= 510:
+ print(i)
+ i += 19
+
+i = 293
+while i <= 329:
+ print(i)
+ i += 2
+
+i = -413
+while i <= -243:
+ i += 5
+ print(i) 
+ 
+i = -163
+while i <= 17:
+ print(i)
+ i += 15
+
+i = 228
+while i <= 250:
+ print(i)
+ i += 1
+
+i = 22
+while i <= 330:
+ print(i)
+ i += 11
+
+i = 130
+while i <= 290:
+ print(i)
+ i += 5
+
+i = -43
+while i <= 167:
+ print(i)
+ i += 7
+
+i = -153
+while i <= 374:
+ print(i)
+ i += 17
+
+ 
